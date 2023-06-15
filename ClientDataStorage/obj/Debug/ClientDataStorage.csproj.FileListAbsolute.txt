@@ -1,0 +1,9 @@
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\bin\Debug\ClientDataStorage.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\bin\Debug\ClientDataStorage.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\obj\Debug\ClientDataStorage.csproj.AssemblyReference.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\obj\Debug\ClientDataStorage.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\obj\Debug\ClientDataStorage.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\obj\Debug\ClientDataStorage.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\bin\Debug\ClientLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\bin\Debug\ClientLibrary.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientDataStorage\obj\Debug\ClientDataStorage.csproj.CopyComplete

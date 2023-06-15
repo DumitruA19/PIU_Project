@@ -1,0 +1,9 @@
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\bin\Debug\CarDataStorage.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\bin\Debug\CarDataStorage.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\bin\Debug\CarsLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\bin\Debug\CarsLibrary.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\obj\Debug\CarDataStorage.csproj.AssemblyReference.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\obj\Debug\CarDataStorage.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\obj\Debug\CarDataStorage.csproj.CopyComplete
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\obj\Debug\CarDataStorage.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarDataStorage\obj\Debug\CarDataStorage.pdb

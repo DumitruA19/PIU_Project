@@ -1,0 +1,6 @@
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\bin\Debug\ClientLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\obj\Debug\ClientLibrary.csproj.AssemblyReference.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\obj\Debug\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\obj\Debug\ClientLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\ClientLibrary\obj\Debug\ClientLibrary.pdb

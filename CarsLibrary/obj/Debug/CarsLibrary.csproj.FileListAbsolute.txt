@@ -1,0 +1,6 @@
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\bin\Debug\CarsLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\bin\Debug\CarsLibrary.pdb
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\obj\Debug\CarsLibrary.csproj.AssemblyReference.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\obj\Debug\CarsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\obj\Debug\CarsLibrary.dll
+C:\Users\Andri\Desktop\Iroftei Andrei PIU_project\Auto-Service\CarsLibrary\obj\Debug\CarsLibrary.pdb

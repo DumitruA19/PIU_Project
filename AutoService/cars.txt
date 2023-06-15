@@ -1,0 +1,4 @@
+2;b;b;1234;123;Green;Sunroof;True
+3;c;c;567;678;Black;Air Conditioner;True
+4;n;n;8999;897;White;Air Conditioner Automatic Transmission Cruise Control;True
+5;Audi;A4;2020;156;Black;Air Conditioner Automatic Transmission Cruise Control Sunroof Navigation System Four Wheel Drive;True
